@@ -40,6 +40,6 @@ res[i][j]=m1[i][j]+m2[i][j];
 System.out.print(res[i][j]+"\t");
 }
 System.out.println();
-} 
 }
-} 
+}
+}
